@@ -12,9 +12,9 @@ dist/
 build/
 *.egg
 
-# Backend artifacts
-backend/artifacts/*.pkl
-backend/artifacts/*.json
+# Backend artifacts (included for deployment)
+# backend/artifacts/*.pkl
+# backend/artifacts/*.json
 
 # Node.js / Frontend
 node_modules/

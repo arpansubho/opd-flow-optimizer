@@ -1,0 +1,6 @@
+{
+    "rmse": 7.473129486318235,
+    "mae": 6.046061641414142,
+    "model_version": "v1.0",
+    "description": "RandomForestRegressor trained on synthetic data"
+}
